@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  test5.1.cpp
+C:\Users\Hp EliteBook 840 G7\source\repos\AP\Lab5.1\5.1\Source.cpp(8,9): warning C4101: 'a': unreferenced local variable
+  (compiling source file '/test5.1.cpp')
+  
+     Creating library C:\Users\Hp EliteBook 840 G7\source\repos\AP\Lab5.1\x64\Debug\test5.1.lib and object C:\Users\Hp EliteBook 840 G7\source\repos\AP\Lab5.1\x64\Debug\test5.1.exp
+  test5.1.vcxproj -> C:\Users\Hp EliteBook 840 G7\source\repos\AP\Lab5.1\x64\Debug\test5.1.dll

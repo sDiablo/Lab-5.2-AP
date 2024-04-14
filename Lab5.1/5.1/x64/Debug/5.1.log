@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Nazar\Desktop\AP\Lab5.1\5.1\Source.cpp(9,9): warning C4101: 'a': unreferenced local variable
+  5.1.vcxproj -> C:\Users\Nazar\Desktop\AP\Lab5.1\x64\Debug\5.1.exe
